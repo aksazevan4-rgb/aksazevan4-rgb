@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aksa Zevan</h1>
 
-<!--
-**aksazevan4-rgb/aksazevan4-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Founder of AKSA.ID • Discord Bot Developer • FiveM Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+- 🎵 Aksa Music
+- 🤖 Discord Bot System
+- 🌐 AKSA.ID Digital Project
+
+---
+
+## 💻 Tech Stack
+
+- Node.js
+- Discord.js
+- Lavalink
+- Prisma
+- PostgreSQL
+- Redis
+- Docker
+- GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
+![Aksa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksazevan4-rgb&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksazevan4-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Links
+
+- Website: https://aksa-lemon.vercel.app/
+- Discord: https://discord.gg/S3Ga5RjUqT
+- Support Saweria: https://saweria.co/Aksazev
+- Support Bagi-Bagi: https://bagibagi.co/Aksa_Zevan

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_GAMBAR_KAMU" width="100%">
+  <img src="https://github.com/aksazevan4-rgb/aksazevan4-rgb/blob/main/772d99de-02f9-45fa-8fad-05eba6fe1002.png" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Aksa Zevan</h1>
 

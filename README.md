@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="URL_GAMBAR_KAMU" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Aksa Zevan</h1>
 
 <p align="center">

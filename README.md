@@ -6,73 +6,74 @@
 
 # AKSA ZEVAN
 
-### Founder of AKSA.ID • Discord Ecosystem Builder • System Designer
+### Founder of AKSA.ID
 
-Building scalable communities, automation platforms, and infrastructure that power digital experiences beyond a single project.
+Building digital ecosystems, automation platforms, and scalable community infrastructure designed for long-term growth.
 
 <br>
 
-*"Turning ideas into systems. Turning systems into ecosystems."*
+*"From ideas to systems. From systems to ecosystems."*
 
 </div>
 
 ---
 
-## About
+# ABOUT /
 
-AKSA.ID started with a simple goal: build reliable digital solutions that scale.
+AKSA.ID was founded with a simple vision: build systems that solve real operational challenges and create long-term value for communities.
 
-Today, my work focuses on creating Discord ecosystems, automation platforms, music bot infrastructure, and community-driven systems designed for long-term growth. I enjoy transforming complex operational challenges into streamlined experiences through thoughtful architecture, automation, and system design.
+My work focuses on Discord ecosystems, automation platforms, music infrastructure, and scalable architectures that prioritize reliability, performance, and user experience.
 
-Based in Indonesia (UTC+7), I spend most of my time building products that improve community management, infrastructure reliability, and user experience at scale.
-
----
-
-## Featured Projects
-
-### 🎵 Aksa Music
-
-Advanced Discord Music Bot focused on performance, reliability, scalability, and user experience.
-
-**Highlights**
-
-* Multi-source audio infrastructure
-* Lavalink-powered architecture
-* Intelligent recovery systems
-* High-availability node management
-* Optimized playback experience
+Based in Indonesia (UTC+7), I spend most of my time designing systems that help communities grow, automate repetitive workflows, and operate at scale.
 
 ---
 
-### 🚀 AKSA.ID
+# PROJECTS /
 
-A growing digital ecosystem focused on services, automation, tools, and community development.
+## Aksa Music
+
+Advanced Discord Music Bot engineered around stability, scalability, performance, and user experience.
+
+**Core Areas**
+
+* Multi-source music infrastructure
+* Lavalink ecosystem
+* Automatic recovery systems
+* Failover node architecture
+* Performance optimization
+* Scalable backend design
+
+---
+
+## AKSA.ID
+
+A growing digital ecosystem focused on automation, digital services, infrastructure, and community development.
 
 **Focus Areas**
 
-* Digital products
-* Community platforms
-* Automation services
-* Infrastructure solutions
-* Ecosystem expansion
+* Digital Products
+* Automation Solutions
+* Community Platforms
+* Infrastructure Services
+* Ecosystem Expansion
 
 ---
 
-### ⚙️ Discord Automation
+## Discord Automation
 
-Custom automation systems designed for modern Discord communities.
+Custom-built systems designed to automate and enhance modern Discord communities.
 
 **Capabilities**
 
-* Moderation systems
-* Analytics & monitoring
-* Recovery infrastructure
-* Ticket ecosystems
-* Server management automation
+* Moderation Systems
+* Ticket Platforms
+* Recovery Systems
+* Analytics & Monitoring
+* Community Management Tools
 
 ---
 
-## Tech Stack
+# STACK /
 
 <div align="center">
 
@@ -80,49 +81,94 @@ Custom automation systems designed for modern Discord communities.
 
 <br><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="48" alt="Prisma" />
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="48" alt="Discord.js" />
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="48" alt="Lavalink" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="48" />
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="48" />
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="48" />
 
 </div>
 
 ---
 
-## Current Focus
+# CURRENT BUILD /
 
-* 🎵 Improving **Aksa Music** infrastructure and stability
-* ⚡ Building scalable automation systems
-* 🏗️ Designing resilient Discord ecosystems
-* 🔄 Optimizing performance and recovery workflows
-* 🌱 Growing communities through technology
-* 🚀 Exploring new tools and modern backend technologies
+* Improving Aksa Music infrastructure
+* Scaling automation systems
+* Building resilient Discord ecosystems
+* Optimizing backend architecture
+* Expanding community-driven platforms
+* Exploring modern technologies and workflows
 
 ---
 
-## GitHub Analytics
+# GITHUB ANALYTICS /
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## Connect
+# CONNECT /
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](#)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](#)
+<a href="https://saweria.co/Aksazev" target="_blank">
+<img src="https://cdn.simpleicons.org/buymeacoffee/FF813F" height="42" alt="Saweria"/>
+</a>
+
+   
+
+<a href="https://bagibagi.co/Aksa_Zevan" target="_blank">
+<img src="https://cdn.simpleicons.org/kofi/29ABE0" height="42" alt="Bagibagi"/>
+</a>
+
+   
+
+<a href="https://aksa-lemon.vercel.app" target="_blank">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="42" alt="About Me"/>
+</a>
+
+   
+
+<a href="https://discord.gg/S3Ga5RjUqT" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="42" alt="Discord Community"/>
+</a>
+
+   
+
+<a href="https://discord.gg/nNEFkUWYWT" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="42" alt="AKSA.ID"/>
+</a>
+
+<br><br>
+
+<a href="https://www.youtube.com/@Aksa_Zevan" target="_blank">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" alt="YouTube"/>
+</a>
+
+   
+
+<a href="https://www.tiktok.com/@aksa1104" target="_blank">
+<img src="https://cdn.simpleicons.org/tiktok/000000" height="42" alt="TikTok"/>
+</a>
+
+   
+
+<a href="https://www.instagram.com/aksa_411/" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" alt="Instagram"/>
+</a>
+
+</div>
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/AKSA.ID-Website-0A0A0A?style=for-the-badge\&logo=googlechrome\&logoColor=white)](#)
+<div align="center">
+
+**Discord:** `aksa_4`
 
 </div>
 
@@ -130,10 +176,12 @@ Custom automation systems designed for modern Discord communities.
 
 <div align="center">
 
-### Building for the long term.
+### BUILDING FOR THE LONG TERM /
 
-Systems evolve. Communities grow.
-The goal is not to create projects that last for months—
-but ecosystems that continue to improve for years.
+Technology changes. Communities evolve.
+
+The mission remains the same:
+
+Build systems that scale, communities that thrive, and ecosystems that continue creating value for years to come.
 
 </div>

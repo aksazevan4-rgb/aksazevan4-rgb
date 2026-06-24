@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aksa Zevan</h1>
 
 <p align="center">
-  Founder of AKSA.ID • Discord Bot Developer • FiveM Developer
+  Founder of AKSA.ID • Discord Bot Developer
 </p>
 
 ---
